@@ -1,0 +1,16 @@
+C:\prog\MD Schedule Crosscheck\bin\Debug\MDScheduleCrosscheck.esapi.dll.config
+C:\prog\MD Schedule Crosscheck\bin\Debug\MDScheduleCrosscheck.esapi.dll
+C:\prog\MD Schedule Crosscheck\bin\Debug\MDScheduleCrosscheck.esapi.pdb
+C:\prog\MD Schedule Crosscheck\bin\Debug\VMS.TPS.Common.Model.API.dll
+C:\prog\MD Schedule Crosscheck\bin\Debug\VMS.TPS.Common.Model.Types.dll
+C:\prog\MD Schedule Crosscheck\bin\Debug\VMS.TPS.Common.Calculation.Interface.dll
+C:\prog\MD Schedule Crosscheck\bin\Debug\VMS.TPS.Common.Model.Interface.dll
+C:\prog\MD Schedule Crosscheck\bin\Debug\VMS.TPS.Common.Model.API.xml
+C:\prog\MD Schedule Crosscheck\bin\Debug\VMS.TPS.Common.Model.Types.xml
+C:\prog\MD Schedule Crosscheck\obj\Debug\MD Schedule Crosscheck.csprojAssemblyReference.cache
+C:\prog\MD Schedule Crosscheck\obj\Debug\MD_Schedule_Crosscheck.SimpleGUI.resources
+C:\prog\MD Schedule Crosscheck\obj\Debug\MD Schedule Crosscheck.csproj.GenerateResource.cache
+C:\prog\MD Schedule Crosscheck\obj\Debug\MD Schedule Crosscheck.csproj.CoreCompileInputs.cache
+C:\prog\MD Schedule Crosscheck\obj\Debug\MD Schedule Crosscheck.csproj.CopyComplete
+C:\prog\MD Schedule Crosscheck\obj\Debug\MDScheduleCrosscheck.esapi.dll
+C:\prog\MD Schedule Crosscheck\obj\Debug\MDScheduleCrosscheck.esapi.pdb
